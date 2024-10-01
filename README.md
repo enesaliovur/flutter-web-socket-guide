@@ -20,6 +20,9 @@ All dependencies are managed using GetIt, ensuring that each component is easily
 The app uses the Bloc library to handle WebSocket events and states, ensuring smooth and predictable state transitions.
 
 📋 Simple WebSocket CRUD Operations
+
 Connect: Establish a WebSocket connection.
+
 Send Message: Send real-time messages to the server.
+
 Listen Message: Listen for incoming WebSocket messages and display them in the UI.
